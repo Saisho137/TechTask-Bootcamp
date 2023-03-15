@@ -1,0 +1,15 @@
+C:\Users\SantiagoPC\source\repos\TechTask\TechTask\bin\Debug\net6.0\TechTask.exe
+C:\Users\SantiagoPC\source\repos\TechTask\TechTask\bin\Debug\net6.0\TechTask.deps.json
+C:\Users\SantiagoPC\source\repos\TechTask\TechTask\bin\Debug\net6.0\TechTask.runtimeconfig.json
+C:\Users\SantiagoPC\source\repos\TechTask\TechTask\bin\Debug\net6.0\TechTask.dll
+C:\Users\SantiagoPC\source\repos\TechTask\TechTask\bin\Debug\net6.0\TechTask.pdb
+C:\Users\SantiagoPC\source\repos\TechTask\TechTask\obj\Debug\net6.0\TechTask.csproj.AssemblyReference.cache
+C:\Users\SantiagoPC\source\repos\TechTask\TechTask\obj\Debug\net6.0\TechTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SantiagoPC\source\repos\TechTask\TechTask\obj\Debug\net6.0\TechTask.AssemblyInfoInputs.cache
+C:\Users\SantiagoPC\source\repos\TechTask\TechTask\obj\Debug\net6.0\TechTask.AssemblyInfo.cs
+C:\Users\SantiagoPC\source\repos\TechTask\TechTask\obj\Debug\net6.0\TechTask.csproj.CoreCompileInputs.cache
+C:\Users\SantiagoPC\source\repos\TechTask\TechTask\obj\Debug\net6.0\TechTask.dll
+C:\Users\SantiagoPC\source\repos\TechTask\TechTask\obj\Debug\net6.0\refint\TechTask.dll
+C:\Users\SantiagoPC\source\repos\TechTask\TechTask\obj\Debug\net6.0\TechTask.pdb
+C:\Users\SantiagoPC\source\repos\TechTask\TechTask\obj\Debug\net6.0\TechTask.genruntimeconfig.cache
+C:\Users\SantiagoPC\source\repos\TechTask\TechTask\obj\Debug\net6.0\ref\TechTask.dll
